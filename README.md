@@ -24,7 +24,7 @@ Notes:
 
 Once imported/configured, simply go to the “Trillium JSON Editor” note. When opened, it will look for all JSON notes (see below for criteria) and put them in the drop down list. Selecting an item will load that JSON into a table for editing.
 
-If autosave is checked, the data will be saved on any change (see below for exceptions). If unchecked, data will only be saved when the “Save” button is clicked.
+If autosave is checked, the data will be saved on any change (see below for exceptions). If unchecked, data will only be saved when the “Save” toolbar button is clicked.
 
 If you have JSON notes that you do not want to be put in the list, you can add the attribute #tjeExclude to the note and it will not appear in the list.
 
