@@ -156,7 +156,9 @@ function showSpreadsheet(show) {
     
     if (show) {
         sheetDiv.style.display = "block";
-        saveButton.style.display = "block";
+        //SCOCHANGE: have the toolbar, hiding the save button on the right to test
+        saveButton.style.display = "none";
+        // saveButton.style.display = "block";
         sheet[0].addEventListener("keydown", onSheetChange);
     } else {
         sheetDiv.style.display = "none";
