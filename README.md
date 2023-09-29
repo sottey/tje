@@ -49,4 +49,4 @@ Notes:
 - Ability to store “last edited note” so it auto selects when returning to the editor
 - Confirmation on leaving note if current data is not saved
 - New Row Templating
-- 
+- Possibly migrate to WolfTable
