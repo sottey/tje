@@ -6,7 +6,8 @@ The original js and css files from the repo are used here untouched (mostly, see
 
 There are no external dependancies so this should all work identically both online and offline.
 
-<img width="903" alt="image" src="https://github.com/sottey/tje/assets/8494620/60794845-7ea6-4f5a-8a48-a59d968a5b3d">
+<img width="1029" alt="image" src="https://github.com/sottey/tje/assets/8494620/2550626e-21d2-4808-8015-64d4ac3a792f">
+
 
 
 ## Installation
