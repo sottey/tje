@@ -1,5 +1,3 @@
-## NOTE: This plugin does NOT work with Trilium 0.62. Working to get it compatible soon. If you have upgraded to 62 and do not want to revert to at least 61.13, you can just remove TJE with no negative effects.
-
 # Trilium JSON Editor (tje)
 
 The Trilium JSON Editor is a table (spreadsheet)  type editor for single depth JSON notes. It allows for JSON editing of any Code→JSON note type. It provides auto save functionality, formatting, formulas and more. The heart of this is the amazing x-spreadsheet javascript repo located here. 
